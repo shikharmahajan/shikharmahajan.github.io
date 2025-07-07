@@ -6,8 +6,3 @@ tags: professionalsummary
 ---
 
 # 💼 Professional Experience
-
-## 🚗 LeasePlan Digital B.V
-**Role: DevOps Engineer**  
-**Duration: Dec 2023 – Jun 2025**  
-**Location: Amsterdam, Netherlands**
