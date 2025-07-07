@@ -7,7 +7,7 @@ tags: professionalsummary
 
 # 💼 Professional Experience
 
-## 🚗 LeasePlan Digital B.V  
+## 🚗 LeasePlan Digital B.V
 🔗 [Ayvens](https://www.ayvens.com/nl-nl/)  
 **Role: DevOps Engineer**  
 **Duration: Dec 2023 – Jun 2025**  
