@@ -24,8 +24,6 @@ tags: professionalsummary
 
 **Techstack:** `AWS`, `Terraform`, `Ansible`, `EKS`, `Linux`, `FluxCD`, `GitOps`, `Kustomize`, `GitLab`, `Python`
 
----
-
 ## 🛡️ Micro Focus  
 🔗 [OpenText](https://www.opentext.com/en-gb/about/brands/microfocus)  
 **Role: Site Reliability Engineer**  
@@ -43,10 +41,8 @@ tags: professionalsummary
 
 **Techstack:** `AWS`, `Terraform`, `GitHub`, `Grafana`, `Prometheus`, `Linux`, `Terragrunt`, `Python`
 
----
-
 ## 🎥 HireVue  
-🔗 [hirevue.com](https://www.hirevue.com/)  
+🔗 [Hirevue](https://www.hirevue.com/)  
 **Role: DevOps Engineer**  
 **Duration: Jun 2021 – May 2022**  
 **Location: Noida, India**
@@ -61,10 +57,8 @@ tags: professionalsummary
 
 **Techstack:** `AWS`, `Terraform`, `GitHub`, `ECS`, `Terragrunt`, `Linux`, `Jenkins`, `Python`
 
----
-
 ## 🌐 GlobalLogic  
-🔗 [globallogic.com](https://www.globallogic.com/)  
+🔗 [Globallogic](https://www.globallogic.com/)  
 **Role: DevOps Engineer**  
 **Duration: Jul 2019 – Jun 2021**  
 **Location: Noida, India**
@@ -75,8 +69,6 @@ tags: professionalsummary
 - Managed cross-platform build servers and sprint-based tasks.
 
 **Techstack:** `Ansible`, `Azure DevOps`, `BitBucket`, `Linux`, `Windows Server`, `GoCD`, `CI/CD`
-
----
 
 ## 🚚 Rivigo  
 🔗 [Mahindra Logistics](https://mahindralogistics.com/b2b-express/)  
@@ -90,10 +82,8 @@ tags: professionalsummary
 
 **Techstack:** `AWS`, `Jenkins`, `GitHub`, `Linux`, `Docker`, `CI/CD`
 
----
-
 ## 📡 Amdocs  
-🔗 [amdocs.com](https://www.amdocs.com/)  
+🔗 [Amdocs](https://www.amdocs.com/)  
 **Role: Technology Integration Engineer**  
 **Duration: Aug 2017 – Feb 2019**  
 **Location: Gurugram, India**
@@ -105,10 +95,8 @@ tags: professionalsummary
 
 **Techstack:** `AWS`, `Jenkins`, `GitHub`, `Linux`, `CI/CD`, `Ansible`
 
----
-
 ## 🖥️ HCL Technologies  
-🔗 [hcltech.com](https://www.hcltech.com)  
+🔗 [HCL Tech](https://www.hcltech.com)  
 **Role: Software Engineer**  
 **Duration: Aug 2014 – Aug 2017**  
 **Location: Noida, India**
